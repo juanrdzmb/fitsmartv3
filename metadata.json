@@ -1,0 +1,5 @@
+{
+  "name": "FitSmart v3",
+  "description": "An intelligent workout analyzer that evaluates routines based on biomechanics, user goals, and safety. Upload PDFs, images, or text to get personalized optimizations.",
+  "requestFramePermissions": []
+}
